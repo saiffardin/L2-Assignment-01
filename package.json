@@ -1,0 +1,21 @@
+{
+  "name": "l2-assignment-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saiffardin/L2-Assignment-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/saiffardin/L2-Assignment-01/issues"
+  },
+  "homepage": "https://github.com/saiffardin/L2-Assignment-01#readme"
+}
